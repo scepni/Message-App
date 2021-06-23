@@ -1,0 +1,12 @@
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.Form2.resources
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.mesaj.resources
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.Properties.Resources.resources
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.Yildizli.resources
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.csproj.GenerateResource.cache
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.csproj.CoreCompileInputs.cache
+C:\Users\cepni\source\repos\messageapp\messageapp\bin\Debug\messageapp.exe.config
+C:\Users\cepni\source\repos\messageapp\messageapp\bin\Debug\messageapp.exe
+C:\Users\cepni\source\repos\messageapp\messageapp\bin\Debug\messageapp.pdb
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.exe
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.pdb
+C:\Users\cepni\source\repos\messageapp\messageapp\obj\Debug\messageapp.csproj.AssemblyReference.cache
